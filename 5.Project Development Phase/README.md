@@ -138,8 +138,8 @@ Open: `http://127.0.0.1:5000/`
 - Traditional Flask form-based interface as fallback
 
 ## Developed By
-- Rajputh Dheeraj Kumar Singh
-- Kummari Yogendranadh  
-- Vadisela Naga Sri Harshitha
-- Srinivasulu Golla
-- Gulam Abdul Rahman
+- Duddela Mallikarjuna
+- Shaik Farhatunnisa
+- Munipati Mosay
+- Navya Gunampalli
+- Shaik Sajida
